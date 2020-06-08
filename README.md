@@ -2,6 +2,8 @@
 
 ## URL 
 
+https://meteotesttechnique.netlify.app/
+
 ## Project setup
 ```
 yarn install
