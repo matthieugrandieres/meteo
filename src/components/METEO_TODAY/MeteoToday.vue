@@ -50,7 +50,6 @@ div.meteo-today{
     color: white;
     border-radius: 5px;
 }
-
 div.meteo-today-none{
     background-color: white;
     height: 866px;

@@ -37,11 +37,8 @@ export default {
         handleClickFav(playload) {
             this.$store.commit('FAVORITESCLICK', playload)
         }
-        
     },
     components : codeTemp,
-
-    
 }
 </script>
 
